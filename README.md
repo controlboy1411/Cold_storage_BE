@@ -12,7 +12,3 @@
 - Install all project's required packages and libraries: ```npm install```
 - Run for debugging: ```npm run dev```
 - Run for production: ```npm start```
-## Authors: Ha Van Tung
-### For more informations, please contact me:
-- Email: tunghavan.hust@gmail.com
-- Github: https://github.com/TungHV-Dev
